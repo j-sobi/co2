@@ -30,16 +30,6 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'zh-TW', 'fr' ],
-    localeConfigs:{
-      en: {
-        label: 'English',
-        direction: 'ltr',
-      },
-      'zh-TW': {
-        label: '繁體中文',
-        direction: 'ltr',
-      },
-    },
   },
 
   presets: [
@@ -87,6 +77,7 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {type: 'localeDropdown'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
