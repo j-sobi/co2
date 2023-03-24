@@ -29,7 +29,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'zh-TW', 'fr' ],
+    locales: ['en'],
   },
 
   presets: [
@@ -123,6 +123,10 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/j-sobi',
+              },
+              {
+                label: 'Img from Flaticon',
+                href: 'https://www.flaticon.com/',
               },
             ],
           },
