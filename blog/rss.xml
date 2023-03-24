@@ -4,10 +4,20 @@
         <title>Co2 for the Hills Blog</title>
         <link>https://github.com/co2/blog</link>
         <description>Co2 for the Hills Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[first blog by myself]]></title>
+            <link>https://github.com/co2/blog/first-blog-by-myself</link>
+            <guid>https://github.com/co2/blog/first-blog-by-myself</guid>
+            <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[start blog]]></description>
+            <content:encoded><![CDATA[<p>start blog</p><p><a href="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F761ef3b2-966a-4a3a-b68e-821b00aa3bc7%2FUntitled.png?id=9a8cef84-eaab-46ad-a114-5e9188ada91d&amp;table=block&amp;spaceId=bc661143-dfdc-45ac-ae18-0f70aecb7305&amp;width=1240&amp;userId=43875f00-faa0-43bd-a05a-e2a01aabc5d6&amp;cache=v2" target="_blank" rel="noopener noreferrer">https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F761ef3b2-966a-4a3a-b68e-821b00aa3bc7%2FUntitled.png?id=9a8cef84-eaab-46ad-a114-5e9188ada91d&amp;table=block&amp;spaceId=bc661143-dfdc-45ac-ae18-0f70aecb7305&amp;width=1240&amp;userId=43875f00-faa0-43bd-a05a-e2a01aabc5d6&amp;cache=v2</a></p>]]></content:encoded>
+            <category>hello</category>
+            <category>test</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://github.com/co2/blog/welcome</link>

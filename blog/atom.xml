@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/co2/blog</id>
     <title>Co2 for the Hills Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-03-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/co2/blog"/>
     <subtitle>Co2 for the Hills Blog</subtitle>
     <icon>https://github.com/co2/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[first blog by myself]]></title>
+        <id>https://github.com/co2/blog/first-blog-by-myself</id>
+        <link href="https://github.com/co2/blog/first-blog-by-myself"/>
+        <updated>2023-03-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[start blog]]></summary>
+        <content type="html"><![CDATA[<p>start blog</p><p><a href="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F761ef3b2-966a-4a3a-b68e-821b00aa3bc7%2FUntitled.png?id=9a8cef84-eaab-46ad-a114-5e9188ada91d&amp;table=block&amp;spaceId=bc661143-dfdc-45ac-ae18-0f70aecb7305&amp;width=1240&amp;userId=43875f00-faa0-43bd-a05a-e2a01aabc5d6&amp;cache=v2" target="_blank" rel="noopener noreferrer">https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F761ef3b2-966a-4a3a-b68e-821b00aa3bc7%2FUntitled.png?id=9a8cef84-eaab-46ad-a114-5e9188ada91d&amp;table=block&amp;spaceId=bc661143-dfdc-45ac-ae18-0f70aecb7305&amp;width=1240&amp;userId=43875f00-faa0-43bd-a05a-e2a01aabc5d6&amp;cache=v2</a></p>]]></content>
+        <author>
+            <name>six doller</name>
+            <uri>https://github.com/j-sobi</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="test" term="test"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://github.com/co2/blog/welcome</id>
