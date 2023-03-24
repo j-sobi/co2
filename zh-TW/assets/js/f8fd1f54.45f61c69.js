@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkco_2=self.webpackChunkco_2||[]).push([[7016],{8963:e=>{e.exports=JSON.parse('{"permalink":"/co2/zh-TW/blog/tags/test","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
