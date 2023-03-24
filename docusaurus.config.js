@@ -67,7 +67,7 @@ const config = {
         title: 'Co2',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/mountain.png',
         },
         items: [
           {

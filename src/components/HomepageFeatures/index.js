@@ -5,7 +5,8 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    //Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/colorado.png').default,
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -15,20 +16,22 @@ const FeatureList = [
   },
   {
     title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    //Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/winter-camp.png').default,
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        ahead and move your docs into the <code>冬天</code> directory.
       </>
     ),
   },
   {
     title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    //Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/japan.png').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
+        Extend or customize your website <code>富士山</code> layout by reusing React. Docusaurus can
         be extended while reusing the same header and footer.
       </>
     ),
