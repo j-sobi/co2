@@ -4,6 +4,10 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+//MDX Plugins
+const math = require('remark-math');
+const katex = require('rehype-katex');
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Co2 for the Hills',
@@ -46,6 +50,9 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          //MDX Plugins
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:
