@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Co2 for the Hills',
   tagline: 'Bring your website to another level',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/mountain.ico',
   // Set the production url of your site here
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
