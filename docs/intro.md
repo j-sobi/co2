@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Hong Kong outdoor in less than 5 minutes**.
+Let's discover **Hong Kong outdoor in less than 3 minutes**.
 
 ## Getting Started
 
