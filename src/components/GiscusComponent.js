@@ -7,22 +7,20 @@ export default function GiscusComponent() {
     const { colorMode } = useColorMode();
   
     return (
-      <Giscus    
-        repo="j-sobi/co2"
-        repoId="R_kgDOJNx76w"
-        category="Announcements"
-        categoryId="DIC_kwDOJNx7684CVIwh"  // E.g. id of "General"
-        mapping="url"                        // Important! To map comments to URL
-        term="Welcome to @giscus/react component!"
-        strict="0"
-        reactionsEnabled="1"
-        emitMetadata="1"
-        inputPosition="top"
-        theme={colorMode}
-        lang="en"
-        loading="lazy"
-        crossorigin="anonymous"
-        async
-      />
+      <script src="https://giscus.app/client.js"
+              data-repo="j-sobi/co2"
+              data-repo-id="R_kgDOJNx76w"
+              data-category="Announcements"
+              data-category-id="DIC_kwDOJNx7684CVIwh"
+              data-mapping="url"
+              data-strict="0"
+              data-reactions-enabled="1"
+              data-emit-metadata="0"
+              data-input-position="bottom"
+              data-theme="preferred_color_scheme"
+              data-lang="zh-CN"
+              crossorigin="anonymous"
+              async>
+      </script>
     );
   }
