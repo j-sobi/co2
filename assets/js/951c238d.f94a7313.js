@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkco_2=self.webpackChunkco_2||[]).push([[941],{7003:s=>{s.exports=JSON.parse('{"label":"self-driving","permalink":"/co2/blog/tags/self-driving","allTagsPath":"/co2/blog/tags","count":1}')}}]);

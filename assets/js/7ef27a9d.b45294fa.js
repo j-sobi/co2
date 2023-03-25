@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkco_2=self.webpackChunkco_2||[]).push([[645],{4116:s=>{s.exports=JSON.parse('{"label":"summer","permalink":"/co2/blog/tags/summer","allTagsPath":"/co2/blog/tags","count":1}')}}]);

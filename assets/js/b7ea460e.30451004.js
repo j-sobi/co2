@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkco_2=self.webpackChunkco_2||[]).push([[925],{4982:a=>{a.exports=JSON.parse('{"label":"Hokkaido","permalink":"/co2/blog/tags/hokkaido","allTagsPath":"/co2/blog/tags","count":1}')}}]);
