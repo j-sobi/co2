@@ -6,7 +6,7 @@ const FeatureList = [
   {
     title: '上山篇',
     //Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    img: require('@site/static/img/winter-campcolorado.png').default,
+    img: require('@site/static/img/winter-camp.png').default,
     description: (
       <>
         數年前開始接觸相機， 亦認識了一伙愛拍攝香港風景的影友，多了<code>上山</code>尋找不同的風景， 
