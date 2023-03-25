@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '上山篇',
+    title: '上山',
     //Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     img: require('@site/static/img/winter-camp.png').default,
     description: (
@@ -16,14 +16,14 @@ const FeatureList = [
     ),
   },
   {
-    title: '下海篇',
+    title: '下海',
     //Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     img: require('@site/static/img/colorado.png').default,
     description: (
       <>
-        愛玩的中年人,年輕時有機會接觸不同的<code>水上活動</code>, 說不上瘋狂, 但是仍掛念在海中心漂蕩的感覺,
-         近來接觸了一項簡單的玩具直立板（STANDUP PADDLE）,並精選了用充氣設計, 雖然相對硬板物料來說欠缺速度,
-         不過方便攜帶和收藏, 可以在不同海域一嘗海上短途之旅。
+        愛玩的中年人,年輕時有機會接觸不同的<code>水上活動</code>， 說不上瘋狂， 但是仍掛念在海中心漂蕩的感覺，
+         近來接觸了一項簡單的玩具直立板（STANDUP PADDLE）,並精選了用充氣設計， 雖然相對硬板物料來說欠缺速度，
+         不過方便攜帶和收藏， 可以在不同海域一嘗海上短途之旅。
       </>
     ),
   },
@@ -33,7 +33,7 @@ const FeatureList = [
     img: require('@site/static/img/japan.png').default,
     description: (
       <>
-        最後重玩埋<code>航拍</code>, 愛上用另一角度看世界！
+        最後重玩埋<code>航拍</code>， 愛上用另一角度看世界！
       </>
     ),
   },
