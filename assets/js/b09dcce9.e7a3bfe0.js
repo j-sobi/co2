@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkco_2=self.webpackChunkco_2||[]).push([[4967],{3879:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/co2/blog/tags/hola","allTagsPath":"/co2/blog/tags","count":1}')}}]);
