@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkco_2=self.webpackChunkco_2||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"first blog","permalink":"/co2/blog/first-blog"},{"title":"2018 \u5317\u6d77\u9053\u590f\u4e4b\u65c5","permalink":"/co2/blog/2018-Hokkaido"}]}')}}]);
