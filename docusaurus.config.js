@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Co2 for the Hills',
-  tagline: 'Bring your website to another level',
+  tagline: 'Bring your vision to another level',
   favicon: 'img/mountain.ico',
   // Set the production url of your site here
   url: 'https://github.com',
@@ -100,16 +100,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@kansing',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/kan_tsui/',
               },
             ],
           },
