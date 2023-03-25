@@ -8,17 +8,17 @@
     <subtitle>Co2 for the Hills Blog</subtitle>
     <icon>https://github.com/co2/img/mountain.ico</icon>
     <entry>
-        <title type="html"><![CDATA[first blog by myself]]></title>
-        <id>https://github.com/co2/blog/first-blog-by-myself</id>
-        <link href="https://github.com/co2/blog/first-blog-by-myself"/>
+        <title type="html"><![CDATA[first blog]]></title>
+        <id>https://github.com/co2/blog/first-blog</id>
+        <link href="https://github.com/co2/blog/first-blog"/>
         <updated>2023-03-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[start blog]]></summary>
         <content type="html"><![CDATA[<p>start blog</p>]]></content>
         <author>
-            <name>six doller</name>
-            <uri>https://github.com/j-sobi</uri>
+            <name>kansing</name>
         </author>
-        <category label="hello" term="hello"/>
-        <category label="test" term="test"/>
+        <category label="mountain" term="mountain"/>
+        <category label="sea" term="sea"/>
+        <category label="sky" term="sky"/>
     </entry>
 </feed>

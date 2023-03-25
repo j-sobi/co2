@@ -9,14 +9,15 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[first blog by myself]]></title>
-            <link>https://github.com/co2/blog/first-blog-by-myself</link>
-            <guid>https://github.com/co2/blog/first-blog-by-myself</guid>
+            <title><![CDATA[first blog]]></title>
+            <link>https://github.com/co2/blog/first-blog</link>
+            <guid>https://github.com/co2/blog/first-blog</guid>
             <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[start blog]]></description>
             <content:encoded><![CDATA[<p>start blog</p>]]></content:encoded>
-            <category>hello</category>
-            <category>test</category>
+            <category>mountain</category>
+            <category>sea</category>
+            <category>sky</category>
         </item>
     </channel>
 </rss>

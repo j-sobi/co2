@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkco_2=self.webpackChunkco_2||[]).push([[288],{2893:s=>{s.exports=JSON.parse('{"label":"sky","permalink":"/co2/blog/tags/sky","allTagsPath":"/co2/blog/tags","count":1}')}}]);
