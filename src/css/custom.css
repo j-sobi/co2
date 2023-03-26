@@ -30,7 +30,7 @@
 }
 
 /* Responsive YouTube Video Embed */
-.video-container { 
+.video-container, .embedVideo{ 
   position: relative; 
   padding-bottom: 56.25%; 
   padding-top: 30px; 
@@ -38,7 +38,7 @@
   overflow: hidden; 
 }
 
-.video-container iframe, .video-container object, .video-container embed {
+.video-container iframe, .video-container object, .video-container embed, .embedVideo {
   position: absolute; 
   top: 0; 
   left: 0; 
