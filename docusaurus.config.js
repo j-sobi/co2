@@ -79,17 +79,17 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {            
             href: 'https://www.instagram.com/kan_tsui/',
-            html: '<img src="img/instagram-24.png" alt="instagram" class="right-navbar-item"/>',
+            html: '<img src="img/instagram-24.png" alt="instagram"/>',
             position: 'right',
           },
           {            
             href: 'https://www.youtube.com/@kansing',
-            html: '<img src="img/youtube-24.png" alt="youtube" class="right-navbar-item"/>',
+            html: '<img src="img/youtube-24.png" alt="youtube"/>',
             position: 'right',
           },
           {
             href: 'https://github.com/j-sobi',
-            html: '<img src="img/github-24.png" alt="github" class="right-navbar-item"/>',
+            html: '<img src="img/github-24.png" alt="github"/>',
             position: 'right',
           },
         ],

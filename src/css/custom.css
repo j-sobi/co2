@@ -29,6 +29,6 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.right-navbar-item {
+.navbar__items.navbar__items--right.navbar__item.navbar__link{
   height: 32px;
 }
