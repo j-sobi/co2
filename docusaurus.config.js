@@ -89,7 +89,7 @@ const config = {
           },
           {
             href: 'https://github.com/j-sobi',
-            html: '<img width="32" height="32" src="img/icons8-github-48.png" alt="github"/>',
+            label: 'github',
             position: 'right',
           },
         ],
