@@ -29,7 +29,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-a.navbar__item.navbar__link {
+navbar__item.navbar__link {
   width: 32;
   height: 32;
 }
