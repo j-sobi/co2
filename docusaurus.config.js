@@ -121,7 +121,7 @@ const config = {
                 href: 'https://github.com/j-sobi',
               },
               {
-                label: 'Img from Flaticon',
+                label: 'Icon from Flaticon',
                 href: 'https://www.flaticon.com/',
               },
             ],
