@@ -79,7 +79,7 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/j-sobi',
-            label: 'GitHub',
+            src: 'img/icons8-github-48.png',
             position: 'right',
           },
         ],
