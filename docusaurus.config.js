@@ -77,6 +77,7 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/program', label: 'Program', position: 'left'},
           {            
             href: 'https://www.instagram.com/kan_tsui/',
             html: '<img src="https://j-sobi.github.io/co2/img/instagram-24.png" alt="instagram"/>',
