@@ -127,6 +127,10 @@ const config = {
                 to: '/blog',
               },
               {
+                label: 'Program',
+                to: '/program',
+              },
+              {
                 label: 'GitHub',
                 href: 'https://github.com/j-sobi',
               },
